@@ -4,8 +4,6 @@ Summary: The research explores the growing intersection of YouTube videos and ac
 
 Abstract: Video communication has rapidly increased over the past decade, with YouTube providing a medium where users can post, discover, share, and react to videos. There has also been an increase in the number of videos citing research articles, especially since it has become relatively commonplace for academic conferences to require video submissions. However, the relationship between research articles and YouTube videos is unclear, and the present paper aims to address this issue. We created new datasets using YouTube videos and mentions of research articles on various online platforms. Most of the articles cited in the videos are related to medicine and biochemistry. We analyzed these datasets through statistical techniques and visualization and built machine learning models to predict (1) whether a research article is cited in videos, (2) whether a research article cited in a video achieves a level of popularity, and (3) whether a video citing a research article becomes popular. The best models achieved F1 scores between 80% and 94%. According to our results, research articles mentioned in more tweets and news coverage are more likely to receive video citations. We also found that video views are essential for predicting citations and increasing research articles’ popularity and public engagement with science.
 
-![Data process](https://github.com/sabdulrahman/YouTube/blob/main/data.png)
-
 Dataset:
 
 The dataset aims to facilitate further investigation into the impact of YouTube videos on both the scientific community and the general public.
